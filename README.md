@@ -1,3 +1,1 @@
-# octopussy
-arihant parsoya
-a
+# Wncc Coding Task
